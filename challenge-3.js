@@ -40,4 +40,3 @@ function netSalaryCalculation(sumOfBenefits, basicSalary){
      
     return `Your net salary is Ksh ${netSalary}.`;
 }
-console.log(netSalaryCalculation(100000, 10000));
