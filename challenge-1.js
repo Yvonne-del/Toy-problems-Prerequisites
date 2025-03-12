@@ -19,4 +19,3 @@ function studentMarks(marks){
         return "Not a valid number";
     }
 }
-console.log(studentMarks(102))
